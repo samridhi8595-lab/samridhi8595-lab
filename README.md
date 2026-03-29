@@ -3,8 +3,8 @@
   <img src="https://github.com/pawan8705/pawan8705/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Pawan Tripathi</strong></h1>
-<h3 align="center">🚀 Frontend Developer | Web Enthusiast | BCA Graduate</h3>
+<h1 align="center">👋 Hi, I'm <strong>SAMRIDHI</strong></h1>
+<h3 align="center">🚀 Frontend Developer | BCA Graduate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React+%7C+Tailwind+%7C+JavaScript+%7C+TypeScript;Exploring+AI+%26+Cloud;Let's+Build+Amazing+Things!;Open+to+projects+and+collaborations" alt="Typing Animation"/>
@@ -31,9 +31,6 @@ Currently working to improve my skills in full-stack development with real-world
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3A75A1?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <h3>⚛️ Frontend Libraries & Frameworks</h3>
