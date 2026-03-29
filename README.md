@@ -76,7 +76,7 @@ I am passionate about continuous learning and technology
   </li>
 
   <li><strong>Hotel-booking</strong> ||
-    <a href="hhttps://github.com/samridhi8595-lab/Hotel-Booking"> GitHub Link</a> ||
+    <a href="hhttps://github.com/samridhi8595-lab/Hotel-Booking">GitHub Link</a> ||
     <!-- <a href="https://pawantripathi.vercel.app/">Live Preview</a> -->
   </li>
   
@@ -107,7 +107,7 @@ I am passionate about continuous learning and technology
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhi8595&theme=tokyo-night" height="180" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samridhi8595-lab&theme=tokyo-night" height="180" />
 </p>
 
 
